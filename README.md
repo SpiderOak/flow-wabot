@@ -11,3 +11,7 @@ You can also edit 'responses.csv' if you want different responses when wabot can
 - Handle non-text responses from WolframAlpha.
 - Error handling/reporting.
 - More conversational responses (yes/no answers, etc)
+
+## NOTE:
+
+This bot has NOT gone through a security review.
